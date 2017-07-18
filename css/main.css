@@ -12,6 +12,10 @@
         padding-top: 70px;
     }
 
+    .navbar img {
+        width: 100px;
+    }
+
 
     #configurator {}
 
